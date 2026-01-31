@@ -1,0 +1,21 @@
+# Cesium Magnetometer - BlueOS Extension
+# Requirements for Python 3.9+
+
+# Serial communication
+pyserial>=3.5
+
+# Async web framework
+aiohttp>=3.8.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Hailo SDK (optional, install separately)
+# hailo-platform>=4.15.0
+
+# Development dependencies
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
